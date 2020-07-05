@@ -27,5 +27,5 @@ nav:
     - 子标题 1: Sample/SampleFile1.md
     - 子标题 2: Sample/SampleFile2.md
     
-  - YY 的新笔记:
-    - 计算机网络: 网络/Note1.md
+  # - YY 的新笔记:
+    # - 计算机网络: 网络/Note1.md
